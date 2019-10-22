@@ -1,0 +1,17 @@
+{
+  "name": "salty_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "LambdAurora <aurora42lambda@gmail.com",
+  "license": "LGPLv3",
+  "dependencies": {
+    "an-array-of-french-words": "^1.0.0",
+    "minimist": "^1.2.0",
+    "twit": "^2.2.11"
+  }
+}
