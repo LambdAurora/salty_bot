@@ -11,7 +11,7 @@
   "license": "LGPLv3",
   "dependencies": {
     "an-array-of-french-words": "^1.0.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.2",
     "twit": "^2.2.11"
   }
 }
